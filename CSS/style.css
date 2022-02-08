@@ -1,4 +1,16 @@
+
+
 /* navbar custom css */
 .navbar{
     background-color: #562EFF;
+}
+
+/* top players section  */
+.top-players h4{
+    color: #562EFF;
+}
+
+.top-player img{
+    width: 56px;
+    height: 56px;
 }
