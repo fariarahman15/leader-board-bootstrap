@@ -33,13 +33,13 @@
 
 .fa-star.filled{
     color: #FFC014;
-    margin-right: 0.5em;
+    margin-right: 0.25em;
 }
 
 .fa-star.empty{
     color: #AEAEAE;
     opacity: 0.25;
-    margin-right: 0.5em;
+    margin-right: 0.25em;
 }
 
 .course-duration{
@@ -48,7 +48,7 @@
 
 .fa-clock{
     color: #FF4A60;
-    margin-right: 0.5em;
+    margin-right: 0.25em;
 }
 .course-duration span{
     color: #FF4A60;
