@@ -14,6 +14,15 @@
 }
 
 /* top blog section  */
+.top-blogs h4{
+    color: #562EFF;
+}
+
 .card-text span{
+    color: #562EFF;
+}
+
+/* latest course section  */
+.latest-courses h4{
     color: #562EFF;
 }
