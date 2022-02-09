@@ -26,3 +26,30 @@
 .latest-courses h4{
     color: #562EFF;
 }
+
+.card-text{
+    color: #ED6B4F;
+}
+
+.fa-star.filled{
+    color: #FFC014;
+    margin-right: 0.5em;
+}
+
+.fa-star.empty{
+    color: #AEAEAE;
+    opacity: 0.25;
+    margin-right: 0.5em;
+}
+
+.course-duration{
+    background: #FFE4E8;
+}
+
+.fa-clock{
+    color: #FF4A60;
+    margin-right: 0.5em;
+}
+.course-duration span{
+    color: #FF4A60;
+}
